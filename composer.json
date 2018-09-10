@@ -1,6 +1,5 @@
 {
   "name": "dongqibin/migration",
-  "homepage": "https://github.com/dongqibin/migration.git",
   "authors": [
     {
       "name": "dj",
@@ -8,9 +7,6 @@
     }
   ],
   "license": "Apache-2.0",
-  "support": {
-    "source": "https://github.com/dongqibin/migration.git"
-  },
   "autoload": {
     "psr-4": {
       "dongqibin\\migration\\": "src"
