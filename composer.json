@@ -6,6 +6,10 @@
       "email": "1605769464@qq.com"
     }
   ],
+  "homepage": "https://github.com/dongqibin/migration.git",
+  "support": {
+    "source": "https://github.com/dongqibin/migration.git"
+  },
   "license": "Apache-2.0",
   "autoload": {
     "psr-4": {
