@@ -1,0 +1,23 @@
+{
+  "name": "dongqibin/migration",
+  "homepage": "https://github.com/dongqibin/migration.git",
+  "authors": [
+    {
+      "name": "dj",
+      "email": "1605769464@qq.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "support": {
+    "source": "https://github.com/dongqibin/migration.git"
+  },
+  "autoload": {
+    "psr-4": {
+      "dongqibin\\migration\\": "src"
+    }
+  },
+  "require-dev": {
+    "topthink/framework": "^5.0",
+	"topthink/migration": "^1.0"
+  }
+}
