@@ -10,7 +10,7 @@
   "support": {
     "source": "https://github.com/dongqibin/migration.git"
   },
-  "license": "TIM",
+  "license": "Apache-2.0",
   "autoload": {
     "psr-4": {
       "dongqibin\\migration\\": "src"
