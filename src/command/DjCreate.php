@@ -7,7 +7,7 @@
  * Time: 18:31
  */
 
-namespace migration\command;
+namespace dongqibin\migration\command;
 
 use Phinx\Util\Util;
 use think\console\input\Argument as InputArgument;
