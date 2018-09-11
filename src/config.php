@@ -8,5 +8,5 @@
 // +----------------------------------------------------------------------
 
 \think\Console::addDefaultCommands([
-    "think\\migration\\command\\migrate\\DjCreate",
+    "dongqibin\\migration\\command\\DjCreate",
 ]);
