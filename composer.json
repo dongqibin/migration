@@ -1,16 +1,16 @@
 {
   "name": "dongqibin/migration",
+  "description": "自己写的数据库迁移类",
   "authors": [
     {
-      "name": "dongqibin",
+      "name": "dqb12315",
       "email": "1605769464@qq.com"
     }
   ],
-  "homepage": "https://github.com/dongqibin/migration.git",
   "support": {
     "source": "https://github.com/dongqibin/migration.git"
   },
-  "license": "Apache-2.0",
+  "license": "TIM",
   "autoload": {
     "psr-4": {
       "dongqibin\\migration\\": "src"
