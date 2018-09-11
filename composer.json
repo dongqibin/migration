@@ -1,13 +1,16 @@
 {
   "name": "dongqibin/migration",
   "description": "自己写的数据库迁移类",
+  "type":"library",
+  "keywords":["tp5","migration"],
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "dqb12315",
       "email": "1605769464@qq.com"
     }
   ],
-  "license": "Apache-2.0",
+  
   "autoload": {
     "psr-4": {
       "dongqibin\\migration\\": "src"
