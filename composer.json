@@ -19,8 +19,10 @@
       "src/config.php"
     ]
   },
-  "require-dev": {
-    "topthink/framework": "^5.0",
+  "require": {
 	"topthink/migration": "^1.0"
+  },
+  "require-dev": {
+    "topthink/framework": "^5.0"
   }
 }
