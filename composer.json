@@ -20,7 +20,7 @@
     ]
   },
   "require": {
-	"topthink/think-migration": "^1.0"
+	"topthink/think-migration": "^2.0"
   },
   "require-dev": {
     "topthink/think-framework": "^5.0"
